@@ -1,4 +1,6 @@
-## Olá! eu sou o Rhuan
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%fffff&center=false&vCenter=false&width=600&lines=Olá,+Mundo!+👋,+Eu+sou+o+Rhuan!+🖖;+Seja+bem-vindo+ao+meu+GitHub!;)](https://git.io/typing-svg)
+
+
 
 Atualmente programador full-stack na empresa E&L Software Developer, sou formado em Anlise e Desenvolvimento de sistemas, curso Licenciatura em informatica.
 
