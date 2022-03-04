@@ -1,10 +1,15 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%fffff&center=false&vCenter=false&width=600&lines=Olá,+Mundo!+👋,+Eu+sou+o+Rhuan!+🖖;+Seja+bem-vindo+ao+meu+GitHub!;)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%fffff&center=false&vCenter=false&width=600&lines=Hello,+World!+👋,+I'm+Rhuan+Hianc!+🖖;+Welcome+to+my+GitHub!;)](https://git.io/typing-svg)
 
+### 🇺🇸	
+Technology lover, 3d Designer by Hobby, Currently a Full-Stack programmer at E&L Produções de Software, I have a degree in Systems Analysis and Development, a degree in computer science, I work with Java, Spring, GWT, JavaScript, in addition to knowledge in C#, Python, TypeScript, Node, React, among others.
+I always seek to learn and innovate, both as a person and as a professional.
 
+### 🇧🇷
+Amante da tecnologia, Designer 3d por Hobby, atualmente programador Full-Stack na empresa E&L Produções de Software, sou formado em Anlise e Desenvolvimento de sistemas, curso Licenciatura em informatica, trabalho com Java,Spring, GWT, JavaScript, alem de conhecimentos em C#, Python, TypeScript, Node, React, entre outras.
+sempre busco aprender e me inovar, tanto como pessoa quanto como profissional
 
-Atualmente programador full-stack na empresa E&L Software Developer, sou formado em Anlise e Desenvolvimento de sistemas, curso Licenciatura em informatica.
-
-<div align="center">
+##
+<div align="left">
   <a href="https://github.com/rhuanhianc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rhuanhianc&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhuanhianc&layout=compact&langs_count=7&theme=vue-dark"/>
