@@ -5,8 +5,8 @@ Technology lover, 3d Designer by Hobby, Currently a Full-Stack programmer at E&L
 I always seek to learn and innovate, both as a person and as a professional.
 
 ### 🇧🇷
-Amante da tecnologia, Designer 3d por Hobby, atualmente programador Full-Stack na empresa E&L Produções de Software, sou formado em Anlise e Desenvolvimento de sistemas, curso Licenciatura em informatica, trabalho com Java,Spring, GWT, JavaScript, alem de conhecimentos em C#, Python, TypeScript, Node, React, entre outras.
-sempre busco aprender e me inovar, tanto como pessoa quanto como profissional
+Amante da tecnologia, Designer 3d por Hobby, atualmente programador Full-Stack na empresa E&L Produções de Software, sou formado em Anlise e Desenvolvimento de sistemas, curso Licenciatura em informatica, trabalho com Java,Spring, GWT, JavaScript, além de conhecimentos em C#, Python, TypeScript, Node, React, entre outras.
+sempre busco aprender e me inovar, tanto como pessoa quanto como profissional.
 
 ##
 <div align="left">
