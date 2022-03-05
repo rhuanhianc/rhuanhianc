@@ -11,8 +11,8 @@ Sempre busco aprender e me inovar, tanto como pessoa quanto como profissional.
 ##
 <div align="left">
   <a href="https://github.com/rhuanhianc">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rhuanhianc&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhuanhianc&layout=compact&langs_count=7&theme=vue-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rhuanhianc&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&show_owner=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhuanhianc&layout=compact&langs_count=8&theme=vue-dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rhuan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
