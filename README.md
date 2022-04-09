@@ -37,6 +37,6 @@ Sempre busco aprender e me inovar, tanto como pessoa quanto como profissional.
   
    ##
 
-  ![Snake animation](https://github.com/rhuanhianc/rhuanhianc/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/rhuanhianc/rhuanhianc/blob/output/github-contribution-grid-snake.gif)
  
 </div>
