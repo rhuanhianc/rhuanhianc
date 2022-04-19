@@ -8,7 +8,6 @@ I always seek to learn and innovate, both as a person and as a professional.
 Amante da tecnologia, designer 3d por Hobby, atualmente programador Full-Stack na empresa E&L Produções de Software, sou formado em Análise e Desenvolvimento de sistemas, curso Licenciatura em informática, trabalho com Java,Spring, GWT, JavaScript, além de conhecimentos em C#, Python, TypeScript, Node, React, entre outras.
 Sempre busco aprender e me inovar, tanto como pessoa quanto como profissional.
 
-
 ##
 <div align="left">
   <a href="https://github.com/rhuanhianc">
