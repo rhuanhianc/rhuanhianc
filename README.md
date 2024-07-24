@@ -44,7 +44,7 @@
 <div align="left">
   <a href="https://github.com/rhuanhianc">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rhuanhianc&show_icons=true&theme=dark#gh-dark-mode-only&include_all_commits=true&count_private=true&show_owner=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhuanhianc&layout=compact&langs_count=8&theme=dark#gh-dark-mode-only&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhuanhianc&hide=dart,objective-c,starlark&count_private=true&layout=compact&langs_count=8&theme=dark#gh-dark-mode-only"/>
   </a>
 </div>
 
