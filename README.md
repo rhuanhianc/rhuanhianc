@@ -43,8 +43,8 @@
 
 <div align="left">
   <a href="https://github.com/rhuanhianc">
-    <img height="180em" src="https://github-readme-stats-rhuan-beta.vercel.app/api?username=rhuanhianc&show_icons=true&include_all_commits=true&show_owner=true&theme=dark#gh-dark-mode-only"/>
-    <img height="180em" src="https://github-readme-stats-rhuan-beta.vercel.app/api/top-langs/?username=rhuanhianc&hide=dart,objective-c,starlark&layout=compact&langs_count=8&theme=dark#gh-dark-mode-only"/>
+    <img height="180em" src="https://github-readme-stats-rhuan-beta.vercel.app/api?username=rhuanhianc&show_icons=true&include_all_commits=true&show_owner=true&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats-rhuan-beta.vercel.app/api/top-langs/?username=rhuanhianc&hide=dart,html,Less,php,css,scss,objective-c,starlark&layout=compact&langs_count=8&theme=dark"/>
   </a>
 </div>
 
