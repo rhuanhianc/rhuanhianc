@@ -12,7 +12,7 @@
 
 ## Current Focus
 
-- 🔧 Low-level programming
+- 🔧 Programming
 - 🎮 Game development
 - 🦀 Rust
 - 🔍 C++
