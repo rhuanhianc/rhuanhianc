@@ -21,7 +21,7 @@
 ## Professional Experience
 
 - Java (Spring, GWT, EJB, JAX-RS)
-- JavaScript (React, Vue.js, Next.js)
+- JavaScript (React, Vue.js, Next.js, Angular)
 - Full-stack development
 
 ## Skills
