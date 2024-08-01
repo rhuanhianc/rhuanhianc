@@ -4,7 +4,7 @@
 
 ## About Me
 
-🚀 Full-Stack Java Developer with a passion for low-level programming and game development  
+🚀 Full-Stack Java Developer with a passion for programming and game development  
 🎓 Degrees in Systems Analysis and Development and Computer Science  
 🌱 Currently focusing on C++, Rust, and game engine architecture  
 💼 Working at E&L Produções de Software  
