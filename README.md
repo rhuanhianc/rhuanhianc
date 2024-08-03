@@ -12,10 +12,10 @@
 
 ## Current Focus
 
-- 🔧 Programming
+- 🔧 Low-Level Programming
 - 🎮 Game development
 - 🦀 Rust
-- 🔍 C++
+- 🔍 C
 - 🕹️ Game engine architecture
 
 ## Professional Experience
