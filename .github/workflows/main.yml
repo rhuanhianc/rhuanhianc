@@ -17,6 +17,7 @@ jobs:
           github_user_name: rhuanhianc
           outputs: |
             dist/github-pacman.svg?palette=pacman
+            dist/github-snake-dark.svg?palette=github-dark
             dist/github-pacman-dark.svg?palette=pacman-dark
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
