@@ -6,8 +6,7 @@
 
 🚀 Full-Stack Java Developer with a passion for programming and game development  
 🎓 Degrees in Systems Analysis and Development and Computer Science  
-🌱 Currently focusing on C, Rust, and game engine architecture  
-💼 Working at E&L Produções de Software  
+🌱 Currently focusing on C, Zig, and game engine architecture   
 🎨 3D Designer by hobby  
 
 ## Current Focus
@@ -15,7 +14,7 @@
 - 🔧 Low-Level Programming
 - 🎮 Game development
 - 🔍 C
-- 🔍 Zig
+- ⚡ Zig
 - 🕹️ Game engine architecture
 
 ## Professional Experience
