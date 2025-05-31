@@ -15,6 +15,7 @@
 - 🎮 Game development
 - 🔍 C
 - ⚡ Zig
+- 🔍 Rust
 - 🕹️ Game engine architecture
 
 ## Professional Experience
